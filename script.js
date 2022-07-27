@@ -5,7 +5,7 @@
 do{
     
 alert ("Bienvenido a escuela de deportes")
-alert("elije de nuestros ACTIVIDADES")
+alert("elije de nuestros ACTIVIDADES DEPORTIVAS")
 alert("COMBO 1 : futbol - tennis, COMBO 2: futbol - natacion, COMBO 3: tennis - natacion, COMBO 4: futbol - tennis - natacion")
 
 const futbol = 1000
